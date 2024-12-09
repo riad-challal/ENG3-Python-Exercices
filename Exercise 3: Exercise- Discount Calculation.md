@@ -19,7 +19,7 @@ Total price after discount: 135.0 dinars
 Total amount: 200
 Number of items: 6
 Day of the week: Saturday
-Total price after discount: 160.0 dinars
+Total price after discount: 150.0 dinars
 ```
 
 #### Sample Output 3:
